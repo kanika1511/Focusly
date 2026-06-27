@@ -149,9 +149,9 @@ App
 
 ## 🎥 Demo Video
 
-> **Phase 1 Demo:** [Watch on YouTube](https://YOUR_YOUTUBE_LINK_HERE) <!-- Replace with your link -->
+> **Phase 1 and 2 Demo:** [](.....) <!-- Replace with your link -->
 
-> **Phase 2 Demo:** [Watch on YouTube](https://YOUR_YOUTUBE_LINK_HERE) <!-- Replace with your link -->
+ <!-- Replace with your link -->
 
 ---
 
@@ -159,9 +159,9 @@ App
 
 | | |
 |---|---|
-| Name | [Your Name] |
-| Email | [Your Email] |
-| GitHub | https://github.com/YOUR_USERNAME/focusly |
+| Name | [Kanika] |
+| Email | [kanikasangwan2000@gmail.com] |
+| GitHub | https://github.com/kanika1511/focusly |
 | Live URL | https://focusly.vercel.app |
 
 ---
