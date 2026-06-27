@@ -162,7 +162,7 @@ App
 | Name | [Kanika] |
 | Email | [kanikasangwan2000@gmail.com] |
 | GitHub | https://github.com/kanika1511/focusly |
-| Live URL | https://focusly.vercel.app |
+| Live URL | https://focusly-mocha.vercel.app |
 
 ---
 
