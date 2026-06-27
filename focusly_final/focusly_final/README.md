@@ -149,7 +149,7 @@ App
 
 ## 🎥 Demo Video
 
-> **Phase 1 and 2 Demo:** [](.....) <!-- Replace with your link -->
+> **Phase 1 and 2 Demo:** (https://drive.google.com/file/d/103cel4Hj6IcFGM_WStKIKUgvmXY1ODbD/view?usp=sharing) <!-- Replace with your link -->
 
  <!-- Replace with your link -->
 
@@ -160,8 +160,7 @@ App
 | | |
 |---|---|
 | Name | [Kanika] |
-| Email | [kanikasangwan2000@gmail.com] |
-| GitHub | https://github.com/kanika1511/focusly |
+
 | Live URL | https://focusly-mocha.vercel.app |
 
 ---
